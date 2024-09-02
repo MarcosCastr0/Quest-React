@@ -1,5 +1,5 @@
 # React Component Project
-![imagem-final](https://github.com/user-attachments/assets/449a0072-4954-442c-bfd3-4d2ce59f5b61)
+![imagem-final]
 
 ## Visão Geral 💡
 
@@ -23,7 +23,7 @@ Este projeto demonstra a criação e uso de componentes React básicos. Ele incl
 
 `git clone <URL_DO_REPOSITORIO>`
 
-`git clone https://github.com/Madu-Guimaraes/Quest-React`
+`git clone https://github.com/MarcosCastr0/Quest-React.git`
 
 Navegue para o Diretório do Projeto
 
