@@ -1,5 +1,5 @@
 # React Component Project
-![imagem-final]("https://github.com/user-attachments/assets/fde142a6-b07e-4b3b-9fec-1deff6804648")
+<img src = "https://github.com/user-attachments/assets/fde142a6-b07e-4b3b-9fec-1deff6804648"/>
 ## Visão Geral 💡
 
 Este projeto demonstra a criação e uso de componentes React básicos. Ele inclui dois componentes principais: ColoredUppercaseText e Button. O componente ColoredUppercaseText exibe um texto em maiúsculas com a cor definida pela prop, enquanto o componente Button exibe um botão que exibe um alerta com o texto do botão quando clicado. O objetivo do projeto é praticar a criação de componentes reutilizáveis e a aplicação de estilos com CSS.
