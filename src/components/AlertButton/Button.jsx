@@ -1,16 +1,10 @@
 import "./Button.css"
 
 const Button = (props) => {
-
-    const handleClick = () => {
-        alert(`A label desse botão é ${props.label}`);
-    };
-
-    return (
-        <button className='btn' onClick={handleClick}>
+    return <button className='btn' onClick={()=>alert(`A label desse botão é ${props.label}`)}>
             {props.label}
         </button>
-    );
+   
 };
 
 Button.defaultProps = {

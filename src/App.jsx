@@ -1,7 +1,7 @@
 import reactLogo from './assets/react.svg'
 import './App.css'
-import Button from './components/button/Button'
-import UppercaseColloredText from './components/uppercasecolloredtext/UppercaseColloredText'
+import Button from './components/AlertButton/Button'
+import UppercaseColloredText from './components/StyledText/index'
 
 function App() {
   return (
